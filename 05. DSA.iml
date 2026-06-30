@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0018 - Binary Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0020 - Binary Search on Infinite Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0021 - Binary Search on Bitonic Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0023 - Hard Questions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0024 - Koko Eating Bananas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0025 - Smallest Divisor in Given Threshold" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0027 - Aggressive Cows" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0028 - Median of two Sorted Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0030 - Single Element and Square Root" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0058 - Valid Parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0059 - Count the Reversals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0060 - Minimum Add to make parentheses Valid" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0061 - Minimum Number of Swaps to balance String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0062 - Minimum Adjacent Swaps for bracket balancing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0063 - Asteroids Collisions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0064 - Stock Span Problem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0065 - Next Greater Element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0066 - Help Classmates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0067 - Next Greater-Smaller Element in circular Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0068 - Largest Rectangle in Histogram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0069 - Maximal Rectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0070 - Longest Valid Parentheses" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0072 - Queue using Stacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0073 - Stack using Queues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0113 - Minimum Number Of Distinct Sets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0114 - K-Sum Subarray Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0115 - Subarray Sum Divisible by K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0116 - LongestConsecutiveSequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0117 - Longest Subarray of 0 &amp; 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0119 - Dynamic Programming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basics -2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/oops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0120 - Linked List/Linkedlist" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+  </component>
+</module>

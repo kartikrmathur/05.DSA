@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0004 - Writing your first program/0004 - Writing your first program.iml" filepath="$PROJECT_DIR$/0004 - Writing your first program/0004 - Writing your first program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0005 - Java Being Java/0005 - Java Being Java.iml" filepath="$PROJECT_DIR$/0005 - Java Being Java/0005 - Java Being Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0006 - Operators and Inputs/0006 - Operators and Inputs.iml" filepath="$PROJECT_DIR$/0006 - Operators and Inputs/0006 - Operators and Inputs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0007 - Packages and Modifiers/0007 - Packages and Modifiers.iml" filepath="$PROJECT_DIR$/0007 - Packages and Modifiers/0007 - Packages and Modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0008 - Flow control and Loops/0008 - Flow control and Loops.iml" filepath="$PROJECT_DIR$/0008 - Flow control and Loops/0008 - Flow control and Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0009 - Functions/0009 - Functions.iml" filepath="$PROJECT_DIR$/0009 - Functions/0009 - Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0010 - Mini Project-1/0010 - Mini Project-1.iml" filepath="$PROJECT_DIR$/0010 - Mini Project-1/0010 - Mini Project-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0011 - Maths for DSA/0011 - Maths for DSA.iml" filepath="$PROJECT_DIR$/0011 - Maths for DSA/0011 - Maths for DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0012 - Maths for DSA/0012 - Maths for DSA.iml" filepath="$PROJECT_DIR$/0012 - Maths for DSA/0012 - Maths for DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0014 - Bits Manipulation Tips/0014 - Bits Manipulation Tips.iml" filepath="$PROJECT_DIR$/0014 - Bits Manipulation Tips/0014 - Bits Manipulation Tips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0015 - Interview Questions on Bit Manipulation/0015 - Interview Questions on Bit Manipulation.iml" filepath="$PROJECT_DIR$/0015 - Interview Questions on Bit Manipulation/0015 - Interview Questions on Bit Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0016 - Array in one shot/0016 - Array in one shot.iml" filepath="$PROJECT_DIR$/0016 - Array in one shot/0016 - Array in one shot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0017 - Linear Search/0017 - Linear Search.iml" filepath="$PROJECT_DIR$/0017 - Linear Search/0017 - Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0019 - Questions on Binary Search/0019 - Questions on Binary Search.iml" filepath="$PROJECT_DIR$/0019 - Questions on Binary Search/0019 - Questions on Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0022 - Rotated Sorted Array/0022 - Rotated Sorted Array.iml" filepath="$PROJECT_DIR$/0022 - Rotated Sorted Array/0022 - Rotated Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0026 - Minimize Maximum of Products/0026 - Minimize Maximum of Products.iml" filepath="$PROJECT_DIR$/0026 - Minimize Maximum of Products/0026 - Minimize Maximum of Products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0029 - Find Kth element of Two Sorted Arrays/0029 - Find Kth element of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/0029 - Find Kth element of Two Sorted Arrays/0029 - Find Kth element of Two Sorted Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0031 - Other Search Algorithm/0031 - Other Search Algorithm.iml" filepath="$PROJECT_DIR$/0031 - Other Search Algorithm/0031 - Other Search Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0032 - Median of a Matrix/0032 - Median of a Matrix.iml" filepath="$PROJECT_DIR$/0032 - Median of a Matrix/0032 - Median of a Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0033 - Smallest Kth Element of Matrix/0033 - Smallest Kth Element of Matrix.iml" filepath="$PROJECT_DIR$/0033 - Smallest Kth Element of Matrix/0033 - Smallest Kth Element of Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0034 - Search in Sorted Matrix/0034 - Search in Sorted Matrix.iml" filepath="$PROJECT_DIR$/0034 - Search in Sorted Matrix/0034 - Search in Sorted Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0035 - Transpose and Rotate a Matrix/0035 - Transpose and Rotate a Matrix.iml" filepath="$PROJECT_DIR$/0035 - Transpose and Rotate a Matrix/0035 - Transpose and Rotate a Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0036 - Spiral Matrix/0036 - Spiral Matrix.iml" filepath="$PROJECT_DIR$/0036 - Spiral Matrix/0036 - Spiral Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0038 - Insertion Sort/0038 - Insertion Sort.iml" filepath="$PROJECT_DIR$/0038 - Insertion Sort/0038 - Insertion Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0039 - Selection Sort/0039 - Selection Sort.iml" filepath="$PROJECT_DIR$/0039 - Selection Sort/0039 - Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0040 - Bubble and Brick Sort/0040 - Bubble and Brick Sort.iml" filepath="$PROJECT_DIR$/0040 - Bubble and Brick Sort/0040 - Bubble and Brick Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0041 - Counting Sort/0041 - Counting Sort.iml" filepath="$PROJECT_DIR$/0041 - Counting Sort/0041 - Counting Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0042 - Radix Sort/0042 - Radix Sort.iml" filepath="$PROJECT_DIR$/0042 - Radix Sort/0042 - Radix Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0043 - Pigeonhole Sort/0043 - Pigeonhole Sort.iml" filepath="$PROJECT_DIR$/0043 - Pigeonhole Sort/0043 - Pigeonhole Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0044 - Cycle Sort/0044 - Cycle Sort.iml" filepath="$PROJECT_DIR$/0044 - Cycle Sort/0044 - Cycle Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0045 - Missing Number/0045 - Missing Number.iml" filepath="$PROJECT_DIR$/0045 - Missing Number/0045 - Missing Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0046 - Find All Numbers Disappeared in Array/0046 - Find All Numbers Disappeared in Array.iml" filepath="$PROJECT_DIR$/0046 - Find All Numbers Disappeared in Array/0046 - Find All Numbers Disappeared in Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0047 - Find Single and All duplicates/0047 - Find Single and All duplicates.iml" filepath="$PROJECT_DIR$/0047 - Find Single and All duplicates/0047 - Find Single and All duplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0048 - Introduction to Strings/0048 - Introduction to Strings.iml" filepath="$PROJECT_DIR$/0048 - Introduction to Strings/0048 - Introduction to Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0049 - String functions, builder and buffer/0049 - String functions, builder and buffer.iml" filepath="$PROJECT_DIR$/0049 - String functions, builder and buffer/0049 - String functions, builder and buffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0050 - string formatting and buffered reader/0050 - string formatting and buffered reader.iml" filepath="$PROJECT_DIR$/0050 - string formatting and buffered reader/0050 - string formatting and buffered reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0051 - Print All Substrings/0051 - Print All Substrings.iml" filepath="$PROJECT_DIR$/0051 - Print All Substrings/0051 - Print All Substrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0052 - Reverse Strings/0052 - Reverse Strings.iml" filepath="$PROJECT_DIR$/0052 - Reverse Strings/0052 - Reverse Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0053 - Palindrome String/0053 - Palindrome String.iml" filepath="$PROJECT_DIR$/0053 - Palindrome String/0053 - Palindrome String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0054 - Reverse Words in a String-1/0054 - Reverse Words in a String-1.iml" filepath="$PROJECT_DIR$/0054 - Reverse Words in a String-1/0054 - Reverse Words in a String-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0055 - Anagrams/0055 - Anagrams.iml" filepath="$PROJECT_DIR$/0055 - Anagrams/0055 - Anagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0056 - Reverse Words in a String-3/0056 - Reverse Words in a String-3.iml" filepath="$PROJECT_DIR$/0056 - Reverse Words in a String-3/0056 - Reverse Words in a String-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0057 - Stacks in one shot/0057 - Stacks in one shot.iml" filepath="$PROJECT_DIR$/0057 - Stacks in one shot/0057 - Stacks in one shot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0071 - Queue Data Structure/0071 - Queue Data Structure.iml" filepath="$PROJECT_DIR$/0071 - Queue Data Structure/0071 - Queue Data Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0107 - HashMap in Java/0107 - HashMap in Java.iml" filepath="$PROJECT_DIR$/0107 - HashMap in Java/0107 - HashMap in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0108 - Code Your Own HashMap/0108 - Code Your Own HashMap.iml" filepath="$PROJECT_DIR$/0108 - Code Your Own HashMap/0108 - Code Your Own HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0109 - Most Frequent Element/0109 - Most Frequent Element.iml" filepath="$PROJECT_DIR$/0109 - Most Frequent Element/0109 - Most Frequent Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0110 - ArraySubsetOfAnotherArray/0110 - ArraySubsetOfAnotherArray.iml" filepath="$PROJECT_DIR$/0110 - ArraySubsetOfAnotherArray/0110 - ArraySubsetOfAnotherArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0111 - Count Pairs With Given Sum/0111 - Count Pairs With Given Sum.iml" filepath="$PROJECT_DIR$/0111 - Count Pairs With Given Sum/0111 - Count Pairs With Given Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0112 - HashSet Intro/0112 - HashSet Intro.iml" filepath="$PROJECT_DIR$/0112 - HashSet Intro/0112 - HashSet Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0118 - Bucket Sort/0118 - Bucket Sort.iml" filepath="$PROJECT_DIR$/0118 - Bucket Sort/0118 - Bucket Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0120 - Linked List/0120 - Linked List.iml" filepath="$PROJECT_DIR$/0120 - Linked List/0120 - Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0122 - Doubly Linked List/0122 - Doubly Linked List.iml" filepath="$PROJECT_DIR$/0122 - Doubly Linked List/0122 - Doubly Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0124 - Binary Trees/0124 - Binary Trees.iml" filepath="$PROJECT_DIR$/0124 - Binary Trees/0124 - Binary Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0126 - Heaps/0126 - Heaps.iml" filepath="$PROJECT_DIR$/0126 - Heaps/0126 - Heaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0128 - Graphs/0128 - Graphs.iml" filepath="$PROJECT_DIR$/0128 - Graphs/0128 - Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0131 - Merge Sort and Quick Sort/0131 - Merge Sort and Quick Sort.iml" filepath="$PROJECT_DIR$/0131 - Merge Sort and Quick Sort/0131 - Merge Sort and Quick Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. DSA.iml" filepath="$PROJECT_DIR$/05. DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics -2/basics -2.iml" filepath="$PROJECT_DIR$/basics -2/basics -2.iml" />
+    </modules>
+  </component>
+</project>

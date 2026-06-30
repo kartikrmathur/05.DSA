@@ -1,0 +1,59 @@
+// REFERENCE ONLY — see the note in 0120's Reference_ivanzykov_LinkedList.java for how to use this.
+// Source: https://github.com/ivan-zykov/udemy-dsa-barrett
+// File: src/main/java/net/ivanzykov/algorithms/quicksort/QuickSort.java
+// Fetched 2026-06-20.
+//
+// No package statement here on purpose — this file isn't nested under matching package folders
+// in your project.
+
+import java.util.Arrays;
+
+public class QuickSort {
+
+    public static void quickSortHelper(int[] array, int left, int right) {
+        if (left < right) {
+            int pivotIndex = pivot(array, left, right);
+            quickSortHelper(array, left, pivotIndex - 1);
+            quickSortHelper(array, pivotIndex + 1, right);
+        }
+    }
+
+    public static void quickSort(int[] array) {
+        quickSortHelper(array, 0, array.length - 1);
+    }
+
+    private static void swap(int[] array, int firstIndex, int secondIndex) {
+        int temp = array[firstIndex];
+        array[firstIndex] = array[secondIndex];
+        array[secondIndex] = temp;
+    }
+
+    public static int pivot(int[] array, int pivotIndex, int endIndex) {
+        int swapIndex = pivotIndex;
+        for (int i = pivotIndex + 1; i <= endIndex; i++) {
+            if (array[i] < array[pivotIndex]) {
+                swapIndex++;
+                swap(array, swapIndex, i);
+            }
+        }
+        swap(array, pivotIndex, swapIndex);
+        return swapIndex;
+    }
+
+    public static void main(String[] args) {
+
+        int[] myArray = {4,6,1,7,3,2,5};
+
+        quickSort(myArray);
+
+        System.out.println( Arrays.toString( myArray ) );
+
+        /*
+            EXPECTED OUTPUT:
+            ----------------
+            [1, 2, 3, 4, 5, 6, 7]
+
+         */
+
+    }
+}
