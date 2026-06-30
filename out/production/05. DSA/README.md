@@ -74,7 +74,7 @@ We welcome contributions to the Java DSA Library! Whether it's fixing bugs, addi
 2. **Clone Your Fork**: Clone your fork to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/kartik-mathur/java-dsa.git
+    git clone https://github.com/kartikrmathur/05.DSA.git
     cd java-dsa
     ```
 
@@ -145,7 +145,7 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 For any questions, suggestions, or collaboration requests, feel free to reach out:
 
 - **Email**: kartiksmathur@gmail.com
-- **GitHub**: [kartik-mathur](https://github.com/kartik-mathur)
+- **GitHub**: [kartikrmathur](https://github.com/kartikrmathur)
 
 We look forward to your feedback and contributions!
 
