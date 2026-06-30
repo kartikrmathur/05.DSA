@@ -41,6 +41,6 @@ public class MenMed {
 }
 
 
-// this is one of the easy one okkey harsh
-// i have to just remenber the past ones
+// this is one of the easy ones
+// just remember the past ones
 // for the realizations

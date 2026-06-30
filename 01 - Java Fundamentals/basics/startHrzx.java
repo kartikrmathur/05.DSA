@@ -1,6 +1,6 @@
 public class startHrzx {
     public static void main(String[] args) {
-        System.out.println("hello harsh");
+        System.out.println("hello kartik");
         System.out.println("hope you are good in dev ");
              System.out.println("hope you are good in dev ");
    

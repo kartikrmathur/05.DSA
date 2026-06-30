@@ -14,8 +14,8 @@ public class concate {
     }
 
     public static void main(String[] args) {
-        String firstname = "harsh";
-        String lastname = "joshi";
+        String firstname = "kartik";
+        String lastname = "mathur";
         String fullname = firstname + "" + lastname;
         // System.out.println(fullname);
 

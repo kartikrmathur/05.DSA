@@ -18,7 +18,7 @@ public class Reverse {
         return new String(charArray);
     }
     public static void main(String[] args) {
-        String str = "harsh";
+        String str = "kartik";
         String result = reverse(str);
         System.out.println(result);
     }

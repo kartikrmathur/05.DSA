@@ -3,13 +3,13 @@ package ese;
 public class Wow {
 
 
-    static String name1 = " hasrsh joshi ";
+    static String name1 = " kartik mathur ";
 
     public static void namebta(String name ){
     System.out.println(name);
     }
 
-    public String name = "harsh 2";
+    public String name = "kartik 2";
     public static void main(String[] args) {
         namebta(name1);
     }
