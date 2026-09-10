@@ -1,25 +1,53 @@
 # 🏆 Java DSA Library
 
-Welcome to the **Java DSA (Data Structures and Algorithms) Library**! This repository offers comprehensive and efficient implementations of essential data structures and algorithms in Java. It's perfect for both educational purposes and real-world applications. Whether you're a student aiming to master DSA or a developer looking to integrate these concepts into your projects, this library is your ideal resource.
+My working repository for data structures and algorithms in Java — **228 solutions and 56 sets of notes**, organised by topic and built up over time.
+
+This is practice and revision material, not a packaged library. Each topic folder holds worked solutions, and many carry notes written while learning them. Read it as a record of how I work through problems.
 ![](https://i.imgur.com/waxVImv.png)
 
 
 ## 📚 Table of Contents
 
+- [🗂️ Repository Structure](#️-repository-structure)
 - [✨ Features](#-features)
   - [📦 Data Structures](#-data-structures)
   - [⚙️ Algorithms](#️-algorithms)
 - [🚀 Getting Started](#-getting-started)
   - [🛠️ Prerequisites](#️-prerequisites)
   - [📥 Installation](#-installation)
-- [📘 Usage Examples](#-usage-examples)
-  - [Example 1: Using a Stack](#example-1-using-a-stack)
-  - [Example 2: Running a Sorting Algorithm](#example-2-running-a-sorting-algorithm)
 - [🤝 Contributing](#-contributing)
 - [📚 Learning Resources](#-learning-resources)
 - [🔗 Practice Resources](#-practice-resources)
 - [📝 License](#-license)
 - [📧 Contact](#-contact)
+
+## 🗂️ Repository Structure
+
+Topics are numbered so they read in a sensible learning order. Start at `01JavaFundamentals` if you are new to Java, or jump straight to a topic.
+
+| Folder | Contents |
+|---|---|
+| [`00PracticeAndContests`](00PracticeAndContests/) | Contest problems, mixed practice, and the revision hub |
+| [`01JavaFundamentals`](01JavaFundamentals/) | Language basics — OOP, collections, generics, exceptions |
+| [`02Mathematics`](02Mathematics/) | Number theory, primes, GCD, modular arithmetic |
+| [`03BitManipulation`](03BitManipulation/) | Bitwise operators and the standard bit tricks |
+| [`04Arrays`](04Arrays/) | Array traversal, prefix sums, and LeetCode array problems |
+| [`05SearchingAlgorithms`](05SearchingAlgorithms/) | Linear and binary search, and binary-search-on-answer |
+| [`06SortingAlgorithms`](06SortingAlgorithms/) | Comparison sorts, counting sort, and their trade-offs |
+| [`07Strings`](07Strings/) | String manipulation, pattern matching, palindromes |
+| [`08Stacks`](08Stacks/) | Stack implementations, monotonic stacks, expression parsing |
+| [`09Queues`](09Queues/) | Queues, deques, and circular buffers |
+| [`10Hashing`](10Hashing/) | HashMap and HashSet, custom hash maps, frequency patterns |
+| [`11Recursion`](11Recursion/) | Recursion and backtracking fundamentals |
+| [`12LinkedLists`](12LinkedLists/) | Singly and doubly linked lists, cycle detection, reversal |
+| [`13Trees`](13Trees/) | Binary trees and binary search trees |
+| [`14Heaps`](14Heaps/) | Heaps and priority queues |
+| [`15Graphs`](15Graphs/) | Graph representation, traversal, cycle detection, topological sort |
+| [`16DynamicProgramming`](16DynamicProgramming/) | DP patterns — knapsack, subsequences, grids |
+| [`17TwoPointers`](17TwoPointers/) | Two-pointer and sliding-window techniques |
+| [`18InterviewQuestions`](18InterviewQuestions/) | Problems asked in real interviews |
+
+Inside most topics, each problem sits in its own numbered folder with a `code/` directory and, where I wrote them, a `notes/` directory.
 
 ## ✨ Features
 
