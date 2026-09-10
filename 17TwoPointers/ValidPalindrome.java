@@ -1,4 +1,4 @@
-package QuestionsOnTwoPointer;import java.util.Scanner;
+import java.util.Scanner;
 
 class ValidPalindrome {
     public static boolean isPalindrome(String s) {

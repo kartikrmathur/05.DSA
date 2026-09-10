@@ -1,5 +1,3 @@
-package QuestionOnBinarySearch;
-
 public class SearchInRotatedArray {
     public int search(int[] arr, int target) {
         int left = 0;
