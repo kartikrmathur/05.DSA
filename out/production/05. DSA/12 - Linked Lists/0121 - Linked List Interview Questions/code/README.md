@@ -1,1 +1,0 @@
-Drop one file per problem here as you solve them: `FindMiddleNode.java`, `HasLoop.java`, `FindKthFromEnd.java`, `RemoveDuplicates.java`, `BinaryToDecimal.java`, `PartitionList.java`, `ReverseBetween.java`, `SwapNodesInPairs.java` (and `.kt` versions once ported). See `../notes/CHECKLIST.md` for the full list.
